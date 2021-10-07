@@ -1,3 +1,3 @@
 def hello():
-    print('Hello Goof afternoon')
+    print('Hello Good afternoon')
 hello()
